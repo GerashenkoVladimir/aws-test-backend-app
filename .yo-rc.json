@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:GerashenkoVladimir/aws-test-backend-app.git",
+    "project_destination_path": "aws-test-backend-app",
+    "application_name": "aws-test",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
